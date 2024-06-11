@@ -15,3 +15,5 @@
 6. [x] 6. APIs com Spring Boot - Utilizando @PathVariable
 
 7. [x] 7. APIs com Spring Boot - Modelos
+
+8. [x] 8. APIs com Spring Boot - Vinculado modelos e controles
