@@ -7,3 +7,5 @@
 2. [x] 2. APIs com Spring Boot - Configurando o Visual Sudio Code
 
 3. [x] 3. APIs com Spring Boot - Criando Projeto
+
+4. [x] 4. APIs com Spring Boot - Executando Projeto
