@@ -17,3 +17,9 @@
 7. [x] 7. APIs com Spring Boot - Modelos
 
 8. [x] 8. APIs com Spring Boot - Vinculado modelos e controles
+
+9. [x] 9. APIs com Spring Boot - Testando projeto com thunder Client
+
+10. [x] 10. APIs com Spring Boot - Criando base de dados
+
+11. [x] 11. APIs com Spring Boot - Implementando as dependências MYSQL e JPA
