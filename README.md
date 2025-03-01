@@ -23,3 +23,7 @@
 10. [x] 10. APIs com Spring Boot - Criando base de dados
 
 11. [x] 11. APIs com Spring Boot - Implementando as dependências MYSQL e JPA
+
+12. [x] 12. APIs com Spring Boot - Configurando modelo para gerar tabela.
+
+13. [x] 13. APIs com Spring Boot - Configurando modelo para gerar tabela.
