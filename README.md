@@ -27,3 +27,5 @@
 12. [x] 12. APIs com Spring Boot - Configurando modelo para gerar tabela.
 
 13. [x] 13. APIs com Spring Boot - Conexão com MYSQL
+
+14. [x] 14. APIs com Spring Boot - Criando repositório
