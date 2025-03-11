@@ -33,3 +33,5 @@
 15. [x] 15. APIs com Spring Boot - Annotation @Autowired
 
 16. [x] 16. APIs com Spring Boot - Efetuando cadastros com save()
+
+17. [x] 17. APIs com Spring Boot - Listando dados com o comando findAll()
