@@ -28,8 +28,13 @@ public class Controle {
     return acao.findAll();
   }
 
+  @GetMapping("/api/{codigo}")
+  public Pessoa selecionarPeloCodigo(@PathVariable int codigo) {
+    return acao.findByCodigo(codigo);
+  }
+
   @GetMapping("")
-  public String mensage() {
+  public String mensagem() {
     return "Hello World!";
   }
 
