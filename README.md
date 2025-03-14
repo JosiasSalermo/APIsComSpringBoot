@@ -37,3 +37,5 @@
 17. [x] 17. APIs com Spring Boot - Listando dados com o comando findAll()
 
 18. [x] 18. APIs com Spring Boot - Filtrando dados com o findBy()
+
+19. [x] 19. APIs com Spring Boot - Alterando dados com save()
