@@ -39,3 +39,5 @@
 18. [x] 18. APIs com Spring Boot - Filtrando dados com o findBy()
 
 19. [x] 19. APIs com Spring Boot - Alterando dados com save()
+
+20. [x] 20. APIs com Spring Boot - Removendo dados com delete()
