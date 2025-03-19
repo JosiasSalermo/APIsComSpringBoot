@@ -41,3 +41,5 @@
 19. [x] 19. APIs com Spring Boot - Alterando dados com save()
 
 20. [x] 20. APIs com Spring Boot - Removendo dados com delete()
+
+21. [x] 21. APIs com Spring Boot - Contar registros com o comando count()
