@@ -43,3 +43,7 @@
 20. [x] 20. APIs com Spring Boot - Removendo dados com delete()
 
 21. [x] 21. APIs com Spring Boot - Contar registros com o comando count()
+
+22. [x] 22. APIs com Spring Boot - Ordenar registros(Parte 1)
+
+23. [x] 23. APIs com Spring Boot - Ordenar registros(Parte 2)
