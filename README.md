@@ -47,3 +47,5 @@
 22. [x] 22. APIs com Spring Boot - Ordenar registros(Parte 1)
 
 23. [x] 23. APIs com Spring Boot - Ordenar registros(Parte 2)
+
+24. [x] 24. APIs com Spring Boot - Filtrar dados através do comando containing
